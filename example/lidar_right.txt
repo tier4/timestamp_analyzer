@@ -1,0 +1,2965 @@
+stamp:
+  sec: 1718611149
+  nanosec: 327392056
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611149
+  nanosec: 429251949
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611149
+  nanosec: 528053042
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611149
+  nanosec: 629207697
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611149
+  nanosec: 733555338
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611149
+  nanosec: 827897762
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611149
+  nanosec: 934763867
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 28530424
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 129002885
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 228532304
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 328624724
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 428697097
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 528537889
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 628639427
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 728705704
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 827484238
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611150
+  nanosec: 928644066
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 27233672
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 127121148
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 227011305
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 326946875
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 427044398
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 531122779
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 632119963
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 726838450
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 827626807
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611151
+  nanosec: 926788967
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 27442519
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 127250572
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 226956299
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 327122732
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 427080884
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 527183875
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 627481785
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 727132180
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 828703566
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611152
+  nanosec: 926928481
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 26883662
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 128896309
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 230378818
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 326770984
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 426754269
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 526849604
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 626962229
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 727013872
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 827020526
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611153
+  nanosec: 927079654
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 27313710
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 133058181
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 227339668
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 327884440
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 429315770
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 527477571
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 627396499
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 728499238
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 828019072
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611154
+  nanosec: 928636333
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 28476179
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 128493627
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 228697960
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 332340161
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 428595443
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 527162116
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 629725417
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 726973509
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 828845303
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611155
+  nanosec: 926910785
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 27238509
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 131726289
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 226794908
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 326751636
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 426651256
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 526669474
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 626469752
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 728370040
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 826341776
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611156
+  nanosec: 926263261
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 26136874
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 126092248
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 226081891
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 326284571
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 426517702
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 526533080
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 626816729
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 726874058
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 828711772
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611157
+  nanosec: 927036177
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 27101058
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 127129027
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 227194528
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 330136105
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 427581850
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 528341964
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 628538803
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 728455258
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 828579216
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611158
+  nanosec: 928586081
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 27768377
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 128809004
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 229013812
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 329531013
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 427747155
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 531125203
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 628593511
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 728541274
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 827063551
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611159
+  nanosec: 926960665
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 32173387
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 126892425
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 227156278
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 326810346
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 426700405
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 530174683
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 626739725
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 726727016
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 827036188
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611160
+  nanosec: 926912453
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 27031357
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 127267011
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 227136390
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 327150772
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 427177230
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 533266252
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 628638471
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 726933291
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 826877463
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611161
+  nanosec: 926829363
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 30403027
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 126811503
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 230529096
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 326865634
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 427000272
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 528178174
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 627339711
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 727172123
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 828172283
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611162
+  nanosec: 927314254
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 27396123
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 128715056
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 228387567
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 328586202
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 429733899
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 529003843
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 629123321
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 726991822
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 826969888
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611163
+  nanosec: 926833072
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 26813574
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 126724840
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 226746883
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 326688564
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 428354004
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 526523246
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 628330358
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 728119340
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 827075347
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611164
+  nanosec: 926381963
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 26358923
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 126325271
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 228358512
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 326451841
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 426670222
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 526624781
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 626835703
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 727120841
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 826957771
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611165
+  nanosec: 927150633
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 27081729
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 136711358
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 228571695
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 327127209
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 427188597
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 528505104
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 631287454
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 726864799
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 829000589
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611166
+  nanosec: 927901231
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 26761163
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 126711424
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 226825478
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 326883985
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 427225942
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 531815638
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 629766112
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 730808043
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 827146172
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611167
+  nanosec: 927119282
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 26954295
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 126875588
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 226901773
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 327113035
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 426542317
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 526540734
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 627032585
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 726860508
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 826326387
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611168
+  nanosec: 926426345
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 26059971
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 126817540
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 225867914
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 325857207
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 426168065
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 526108644
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 626392458
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 729207677
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 827323397
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611169
+  nanosec: 926859125
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 26858862
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 127089554
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 227080099
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 327143193
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 428475943
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 527170001
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 627311919
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 727224922
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 827297334
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611170
+  nanosec: 927390400
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 27322765
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 127933961
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 227357877
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 327123412
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 427109058
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 526917848
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 626853750
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 726846720
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 826742800
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611171
+  nanosec: 926742637
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 28844298
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 128161654
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 226813266
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 327002101
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 427019178
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 526997047
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 627080909
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 729239845
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 827232642
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611172
+  nanosec: 933298612
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 28467214
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 131590918
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 228529007
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 328412296
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 427412094
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 529932808
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 627081463
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 727009745
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 826841011
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611173
+  nanosec: 926827285
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 26787549
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 126794969
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 227019239
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 326690252
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 426695749
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 526528201
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 626551229
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 727446557
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 826477961
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611174
+  nanosec: 926529564
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 29036004
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 126341323
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 226341708
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 326486342
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 427168651
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 527326824
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 629803113
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 726893714
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 826928939
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611175
+  nanosec: 926996191
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 27147116
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 127165757
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 227317885
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 327286796
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 428090290
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 528371682
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 629745582
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 728529757
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 828446745
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611176
+  nanosec: 928533589
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 35875357
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 128668644
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 228366157
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 329071207
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 429321638
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 528432094
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 635460802
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 729204544
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 829234531
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611177
+  nanosec: 927161225
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 27009616
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 127284455
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 226794818
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 326806122
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 428536032
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 527032780
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 626653011
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 726696017
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 826666918
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611178
+  nanosec: 926566128
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 26474814
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 126440580
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 226598273
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 326549886
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 427672532
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 526756953
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 627063894
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 726903924
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 826964833
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611179
+  nanosec: 927149305
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 28832299
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 129434906
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 227154515
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 326963698
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 426904308
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 526772712
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 626805388
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 726725810
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 826691444
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611180
+  nanosec: 927131914
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 26812985
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 126807658
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 226880232
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 327083332
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 427190288
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 527263478
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 628497807
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 728470070
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 828488107
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611181
+  nanosec: 928679346
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 28578327
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 128505875
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 228532474
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 328660135
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 432051031
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 533414611
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 628420306
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 728802167
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 828543814
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611182
+  nanosec: 929324887
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 28404989
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 127096322
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 230109354
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 327068357
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 426921490
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 532440266
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 626753487
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 726615217
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 826524203
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611183
+  nanosec: 926391606
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 26439271
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 128924554
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 226305393
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 326225426
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 426320847
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 527124489
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 626534192
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 727498755
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 826932024
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611184
+  nanosec: 928508774
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 29618264
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 127371383
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 227109150
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 328528148
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 426927164
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 526871472
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 627175505
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 726693271
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 826708949
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611185
+  nanosec: 926740912
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 26828475
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 128426840
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 226873875
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 328669882
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 427223922
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 527143464
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 627132675
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 727032949
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 827742116
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611186
+  nanosec: 926924593
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 26790008
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 129000361
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 226773844
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 330200166
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 426771104
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 526832144
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 626914877
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 728003604
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 827073130
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611187
+  nanosec: 927202856
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 28931799
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 127426241
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 228504910
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 327604264
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 427086570
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 526870606
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 626823339
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 727527050
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 826635679
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611188
+  nanosec: 926526450
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 26786562
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 126397490
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 227703794
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 327634552
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 426486571
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 526614488
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 627071200
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 726836135
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 828133193
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611189
+  nanosec: 926970430
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 27047343
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 127949264
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 229780138
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 327262571
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 427119390
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 527820414
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 626920657
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 726790208
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 826803739
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611190
+  nanosec: 926735429
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 26907116
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 126781747
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 226882787
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 328464081
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 428024596
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 527148835
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 630943410
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 727152140
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 827027951
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611191
+  nanosec: 927514759
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 26998606
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 128395827
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 226754701
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 326727946
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 427919879
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 526999550
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 626817986
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 728661730
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 827124600
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611192
+  nanosec: 928390508
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 27258161
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 128360632
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 227415771
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 327437035
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 427626950
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 528519174
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 628677367
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 727682854
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 833538169
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611193
+  nanosec: 928339495
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 29547916
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 130923762
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 229672288
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 328659787
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 429887372
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 528541643
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 632571659
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 729983148
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 827259292
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611194
+  nanosec: 928133401
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 27029443
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 128180368
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 227106174
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 327209990
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 426811465
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 526788253
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 627316568
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 726681806
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 826604729
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611195
+  nanosec: 926583006
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 26631907
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 126583200
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 226571537
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 326571596
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 428246381
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 528493109
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 626857904
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 726971290
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 828560500
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611196
+  nanosec: 927343923
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 27822981
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 128082442
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 227875579
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 328574684
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 428550323
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 528640475
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 629808298
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 734467136
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 828652858
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611197
+  nanosec: 932786818
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 28716820
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 128451596
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 228536022
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 329039900
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 429014392
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 528418326
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 628104646
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 727095684
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 827001182
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611198
+  nanosec: 928085394
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 26861292
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 126828037
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 226852124
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 326742100
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 429483764
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 526693455
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 630254596
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 726495655
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 832737498
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611199
+  nanosec: 926340058
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 28477844
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 126372479
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 226588957
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 326800337
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 427126429
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 526785708
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 626739900
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 726808704
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 826935370
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611200
+  nanosec: 926936931
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 27066849
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 127138494
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 227664531
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 327231076
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 427245273
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 527858143
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 627170377
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 727029808
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 826763916
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611201
+  nanosec: 926798700
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 26793940
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 126845006
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 227039483
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 327018069
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 427165210
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 530118436
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 627384647
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 728119112
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 830625035
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611202
+  nanosec: 928892221
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 28534811
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 128575971
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 230192876
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 328383821
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 430321261
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 528589683
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 628538179
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 727975670
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 827251852
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611203
+  nanosec: 927214496
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 29834901
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 128257851
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 226895824
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 326827326
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 426831332
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 529717479
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 626878510
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 726677390
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 827947880
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611204
+  nanosec: 931356808
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 29534537
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 127973808
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 227433826
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 326588189
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 426655792
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 527469462
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 627084658
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 727024959
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 826957259
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611205
+  nanosec: 927957569
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 27083728
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 128196890
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 230201313
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 328255992
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 427949678
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 526985802
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 627016814
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 726911136
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 826823857
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611206
+  nanosec: 926779942
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 26671771
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 126687376
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 226821167
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 326879337
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 427232987
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 527286889
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 627132307
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 727158204
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 833328136
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611207
+  nanosec: 927118310
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611208
+  nanosec: 29738193
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611208
+  nanosec: 127030497
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611208
+  nanosec: 226847131
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611208
+  nanosec: 326844432
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611208
+  nanosec: 426735562
+frame_id: lidar_right
+---
+stamp:
+  sec: 1718611208
+  nanosec: 527247561
+frame_id: lidar_right
+---
